@@ -1,0 +1,329 @@
+guest_id,home_region,skill_level
+1001,New South Wales,beginner
+1003,Victoria,beginner
+1007,Bay of Plenty,intermediate
+1009,Canterbury,intermediate
+1010,Victoria,beginner
+1011,Southland,advanced
+1014,Otago,beginner
+1016,Auckland,intermediate
+1018,New South Wales,beginner
+1019,Waikato,intermediate
+1020,Tasman,beginner
+1021,Wellington,intermediate
+1022,Queensland,intermediate
+1026,Tasman,intermediate
+1028,Canterbury,beginner
+1031,Canterbury,intermediate
+1032,Bay of Plenty,advanced
+1034,Canterbury,advanced
+1036,Otago,intermediate
+1037,Queensland,beginner
+1040,Victoria,advanced
+1041,Otago,beginner
+1042,Auckland,advanced
+1043,Waikato,beginner
+1044,Tasman,intermediate
+1045,Bay of Plenty,intermediate
+1046,Victoria,beginner
+1047,Canterbury,beginner
+1048,Auckland,advanced
+1049,Otago,intermediate
+1050,Auckland,advanced
+1051,Canterbury,beginner
+1052,Wellington,beginner
+1054,Waikato,intermediate
+1056,Tasman,intermediate
+1057,Auckland,intermediate
+1060,Waikato,beginner
+1061,Auckland,beginner
+1066,Wellington,intermediate
+1067,New South Wales,intermediate
+1068,Southland,intermediate
+1070,Wellington,intermediate
+1074,Auckland,intermediate
+1077,Auckland,advanced
+1078,Bay of Plenty,beginner
+1081,Canterbury,beginner
+1082,Waikato,beginner
+1084,Auckland,intermediate
+1085,Victoria,beginner
+1088,New South Wales,beginner
+1090,Canterbury,beginner
+1092,Tasman,expert
+1095,Otago,intermediate
+1096,Queensland,intermediate
+1099,Queensland,beginner
+1106,Otago,intermediate
+1110,Tasman,intermediate
+1111,Canterbury,intermediate
+1112,Auckland,intermediate
+1113,Auckland,intermediate
+1114,Wellington,intermediate
+1115,Otago,advanced
+1116,Otago,beginner
+1119,Canterbury,beginner
+1121,Auckland,beginner
+1123,Auckland,intermediate
+1124,Victoria,advanced
+1125,Otago,advanced
+1126,Canterbury,intermediate
+1127,Bay of Plenty,advanced
+1128,Waikato,intermediate
+1129,Queensland,advanced
+1130,Otago,beginner
+1131,Wellington,beginner
+1134,Canterbury,advanced
+1135,Wellington,intermediate
+1136,Canterbury,advanced
+1139,Wellington,beginner
+1141,Otago,intermediate
+1143,Victoria,intermediate
+1145,Victoria,advanced
+1147,Wellington,intermediate
+1148,Bay of Plenty,intermediate
+1152,Southland,expert
+1153,Queensland,intermediate
+1154,Otago,intermediate
+1156,Waikato,intermediate
+1157,Victoria,beginner
+1158,Tasman,beginner
+1159,Auckland,intermediate
+1160,Auckland,beginner
+1163,Otago,beginner
+1164,Tasman,beginner
+1165,Auckland,intermediate
+1166,Auckland,advanced
+1167,Victoria,advanced
+1169,Waikato,advanced
+1170,Bay of Plenty,advanced
+1171,Waikato,beginner
+1174,Tasman,beginner
+1177,Canterbury,intermediate
+1178,Canterbury,advanced
+1181,Wellington,beginner
+1182,Auckland,beginner
+1183,Wellington,advanced
+1186,Auckland,intermediate
+1191,Southland,beginner
+1192,New South Wales,advanced
+1193,Queensland,beginner
+1195,Waikato,advanced
+1197,Otago,expert
+1198,Canterbury,intermediate
+1199,Otago,advanced
+1200,Bay of Plenty,expert
+1204,Auckland,advanced
+1207,Bay of Plenty,intermediate
+1208,Tasman,intermediate
+1210,Canterbury,beginner
+1211,Canterbury,intermediate
+1212,Tasman,intermediate
+1213,Otago,intermediate
+1218,Canterbury,beginner
+1221,Otago,beginner
+1224,Auckland,advanced
+1228,Bay of Plenty,beginner
+1231,Canterbury,expert
+1232,Canterbury,beginner
+1233,Canterbury,intermediate
+1235,Canterbury,advanced
+1236,Auckland,intermediate
+1237,Waikato,advanced
+1239,Canterbury,advanced
+1242,Wellington,beginner
+1245,Wellington,beginner
+1248,Otago,advanced
+1250,Otago,intermediate
+1254,Waikato,advanced
+1255,Otago,beginner
+1256,Southland,intermediate
+1258,Bay of Plenty,advanced
+1259,Victoria,beginner
+1262,Auckland,advanced
+1263,Queensland,intermediate
+1264,Otago,advanced
+1265,Canterbury,intermediate
+1267,Auckland,beginner
+1268,Victoria,beginner
+1270,Wellington,beginner
+1273,Wellington,intermediate
+1274,Auckland,beginner
+1276,Otago,beginner
+1280,Bay of Plenty,beginner
+1285,Wellington,beginner
+1287,Wellington,beginner
+1288,Victoria,intermediate
+1292,Wellington,beginner
+1293,Victoria,beginner
+1295,Southland,intermediate
+1296,Wellington,beginner
+1298,Auckland,intermediate
+1300,Tasman,intermediate
+1304,Auckland,advanced
+1306,Otago,intermediate
+1308,Tasman,advanced
+1309,Otago,intermediate
+1310,Wellington,intermediate
+1311,Queensland,intermediate
+1312,Waikato,advanced
+1316,Victoria,beginner
+1321,Southland,beginner
+1322,New South Wales,expert
+1323,Auckland,beginner
+1324,Otago,beginner
+1325,Canterbury,beginner
+1328,Otago,intermediate
+1331,Auckland,beginner
+1335,Auckland,beginner
+1338,Canterbury,beginner
+1339,Auckland,beginner
+1341,Otago,intermediate
+1344,Otago,beginner
+1345,Wellington,intermediate
+1347,New South Wales,intermediate
+1348,Southland,beginner
+1349,Auckland,intermediate
+1351,Waikato,intermediate
+1352,Canterbury,advanced
+1355,Auckland,beginner
+1357,Wellington,beginner
+1358,Southland,advanced
+1359,Wellington,beginner
+1362,Auckland,beginner
+1363,Auckland,intermediate
+1367,Bay of Plenty,advanced
+1369,Waikato,intermediate
+1370,Canterbury,beginner
+1372,New South Wales,expert
+1374,Canterbury,advanced
+1376,Otago,intermediate
+1377,Auckland,intermediate
+1378,Wellington,advanced
+1379,Canterbury,advanced
+1380,Victoria,intermediate
+1382,Tasman,intermediate
+1384,Otago,advanced
+1385,New South Wales,beginner
+1386,Auckland,intermediate
+1387,Southland,beginner
+1388,Canterbury,advanced
+1390,Bay of Plenty,intermediate
+1394,Otago,beginner
+1395,Otago,intermediate
+1399,Queensland,advanced
+1400,Otago,beginner
+1402,Auckland,intermediate
+1403,Auckland,intermediate
+1406,Canterbury,beginner
+1407,New South Wales,beginner
+1408,Victoria,beginner
+1411,Waikato,beginner
+1412,Tasman,intermediate
+1413,Canterbury,advanced
+1415,Victoria,beginner
+1416,Canterbury,intermediate
+1418,Otago,intermediate
+1419,Canterbury,intermediate
+1422,Bay of Plenty,advanced
+1423,Otago,advanced
+1424,Canterbury,intermediate
+1425,Auckland,advanced
+1428,Wellington,advanced
+1430,Wellington,beginner
+1432,Otago,advanced
+1434,Victoria,intermediate
+1436,New South Wales,beginner
+1438,Otago,advanced
+1439,Auckland,beginner
+1440,Otago,intermediate
+1444,Wellington,intermediate
+1446,Otago,intermediate
+1448,Auckland,expert
+1452,Waikato,intermediate
+1453,Wellington,expert
+1455,Canterbury,advanced
+1458,Tasman,beginner
+1459,Otago,intermediate
+1460,Wellington,beginner
+1461,Waikato,advanced
+1462,Southland,intermediate
+1463,Auckland,beginner
+1464,Auckland,intermediate
+1466,Bay of Plenty,beginner
+1467,Otago,advanced
+1469,New South Wales,intermediate
+1470,Otago,advanced
+1472,Bay of Plenty,intermediate
+1473,Queensland,beginner
+1474,Wellington,beginner
+1475,Auckland,expert
+1477,Tasman,beginner
+1478,Southland,beginner
+1481,Waikato,intermediate
+1484,Wellington,beginner
+1486,Canterbury,advanced
+1487,Tasman,intermediate
+1489,New South Wales,advanced
+1496,Victoria,beginner
+1499,Canterbury,beginner
+1503,Victoria,beginner
+1504,Southland,beginner
+1505,Auckland,beginner
+1507,Wellington,intermediate
+1510,Wellington,beginner
+1511,Waikato,beginner
+1513,Otago,advanced
+1515,Auckland,advanced
+1516,Victoria,expert
+1518,Tasman,beginner
+1520,Southland,intermediate
+1521,Victoria,intermediate
+1522,Auckland,advanced
+1524,New South Wales,beginner
+1525,Victoria,beginner
+1527,Otago,intermediate
+1530,Queensland,beginner
+1532,Auckland,advanced
+1533,Queensland,advanced
+1535,Victoria,advanced
+1537,Canterbury,intermediate
+1538,Canterbury,advanced
+1539,Wellington,expert
+1540,Canterbury,intermediate
+1541,Tasman,expert
+1542,Tasman,advanced
+1543,Bay of Plenty,advanced
+1544,Wellington,expert
+1550,Canterbury,advanced
+1551,Auckland,beginner
+1553,Wellington,advanced
+1554,Southland,advanced
+1555,Canterbury,advanced
+1556,Auckland,intermediate
+1557,Southland,beginner
+1558,Waikato,intermediate
+1560,Tasman,intermediate
+1565,Bay of Plenty,intermediate
+1567,Waikato,beginner
+1568,Canterbury,intermediate
+1569,Queensland,beginner
+1572,Auckland,beginner
+1575,Otago,beginner
+1576,Tasman,advanced
+1577,Waikato,beginner
+1578,Wellington,intermediate
+1579,Auckland,beginner
+1580,Southland,intermediate
+1581,Bay of Plenty,intermediate
+1582,Tasman,beginner
+1583,Canterbury,advanced
+1584,Otago,intermediate
+1586,Canterbury,intermediate
+1587,Canterbury,advanced
+1589,Auckland,intermediate
+1590,Waikato,beginner
+1594,Auckland,advanced
+1596,Queensland,intermediate
+1599,Otago,beginner
+1600,Tasman,beginner

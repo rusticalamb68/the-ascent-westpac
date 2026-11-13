@@ -1,0 +1,21 @@
+lift_id,resort_id,lift_name,lift_type,capacity_per_hour,vertical_m,installed_year
+1,1,Kea Express,gondola,2400,620,2015
+2,1,Scree Quad,chairlift,2000,410,2004
+3,1,Ridge Six,chairlift,2800,530,2019
+4,1,Fledgling Carpet,magic carpet,900,35,2011
+5,2,Tussock Triple,chairlift,1500,380,1998
+6,2,Basin T-Bar,t-bar,1000,290,1987
+7,2,Snowgrass Quad,chairlift,2200,450,2012
+8,2,Hare Carpet,magic carpet,800,28,2016
+9,3,Harrier Quad,chairlift,2000,470,2001
+10,3,Hawk T-Bar,t-bar,1100,340,1994
+11,3,Talon Double,chairlift,1200,300,1996
+12,3,Updraft Six,chairlift,3000,560,2021
+13,4,Tarn Gondola,gondola,2600,700,2018
+14,4,Moraine Quad,chairlift,2100,430,2009
+15,4,Cirque Express,chairlift,2700,590,2022
+16,4,Tadpole Carpet,magic carpet,850,30,2010
+17,5,Pipit Double,chairlift,1100,310,1975
+18,5,Ridge T-Bar,t-bar,950,360,1968
+19,5,Lookout Quad,chairlift,2000,440,2003
+20,5,Chick Carpet,magic carpet,800,25,2014

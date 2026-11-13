@@ -1,0 +1,601 @@
+guest_id,first_name,last_name,home_region,country,signup_date,skill_level,birth_year
+1001,Nikau,Ihaka,New South Wales,AU,2026-05-22,beginner,1974
+1002,Hemi,Aperahama,Southland,NZ,2026-07-17,beginner,1967
+1003,Sam,Lee,Victoria,AU,2026-06-30,intermediate,1980
+1004,Wiremu,Reid,New South Wales,AU,2026-07-05,beginner,1988
+1005,Dev,MacDonald,Wellington,NZ,2026-08-04,beginner,1980
+1006,Finn,Kumar,Auckland,NZ,2026-08-06,expert,1960
+1007,Priya,OBrien,Bay of Plenty,NZ,2026-05-17,intermediate,2003
+1008,Grace,Lee,Canterbury,NZ,2026-08-24,intermediate,1979
+1009,Isla,Patel,Canterbury,NZ,2026-04-24,intermediate,1997
+1010,Piripi,Gupta,Victoria,AU,2026-06-06,intermediate,2005
+1011,Ngaio,Zhang,Southland,NZ,2026-04-15,advanced,1957
+1012,Daniel,MacDonald,Queensland,AU,2026-08-05,advanced,1992
+1013,Quinn,Parata,Canterbury,NZ,2026-07-06,intermediate,2004
+1014,Hana,Brown,Otago,NZ,2026-04-08,beginner,1971
+1015,Callum,Graham,Tasman,NZ,2026-08-14,beginner,1984
+1016,Rewi,Thompson,Auckland,NZ,2026-05-27,intermediate,1984
+1017,Wiremu,Chen,Canterbury,NZ,2026-07-11,beginner,1998
+1018,Yasmin,Chen,New South Wales,AU,2026-04-24,beginner,1958
+1019,Aroha,Fraser,Waikato,NZ,2026-05-01,intermediate,1967
+1020,Emma,Dalton,Tasman,NZ,2026-05-15,beginner,1977
+1021,Charlotte,Kumar,Wellington,NZ,2026-04-08,intermediate,1970
+1022,Jack,Reid,Queensland,AU,2026-06-01,intermediate,1995
+1023,Yasmin,Vaifale,Canterbury,NZ,2026-08-16,intermediate,1965
+1024,Violet,Tamihana,Canterbury,NZ,2026-08-22,advanced,1990
+1025,Yasmin,Jones,Bay of Plenty,NZ,2026-07-02,advanced,1956
+1026,Jonah,Smith,Tasman,NZ,2026-06-17,intermediate,1952
+1027,Priya,Fraser,Bay of Plenty,NZ,2026-08-21,intermediate,1992
+1028,Zoe,Ngata,Canterbury,NZ,2026-05-13,beginner,1968
+1029,Yasmin,Thompson,Auckland,NZ,2026-07-10,advanced,1986
+1030,Isla,Chen,Auckland,NZ,2026-08-26,beginner,1979
+1031,Jack,Edwards,Canterbury,NZ,2026-04-06,intermediate,1961
+1032,Isla,Fraser,Bay of Plenty,NZ,2026-05-04,advanced,1979
+1033,Sofia,Faleolo,Wellington,NZ,2026-08-03,intermediate,1975
+1034,Tane,Brown,Canterbury,NZ,2026-05-25,advanced,1988
+1035,Leilani,Moana,Canterbury,NZ,2026-06-28,advanced,1952
+1036,Callum,MacDonald,Otago,NZ,2026-05-07,intermediate,1989
+1037,Grace,Urquhart,Queensland,AU,2026-06-08,beginner,1965
+1038,Xanthe,Jones,Bay of Plenty,NZ,2026-08-15,advanced,1994
+1039,Anika,Zhang,Auckland,NZ,2026-08-08,expert,2000
+1040,Jonah,Walker,Victoria,AU,2026-05-24,advanced,1968
+1041,Kiri,Smith,Otago,NZ,2026-05-05,beginner,2005
+1042,Emma,Smith,Auckland,NZ,2026-05-01,advanced,1980
+1043,Isla,Anderson,Waikato,NZ,2026-04-21,beginner,1974
+1044,Olivia,Young,Tasman,NZ,2026-05-06,intermediate,1999
+1045,Ngaio,Clarke,Bay of Plenty,NZ,2026-04-13,intermediate,1959
+1046,Callum,MacDonald,Victoria,AU,2026-06-02,beginner,1989
+1047,Zoe,Smith,Canterbury,NZ,2026-04-27,beginner,1964
+1048,Quinn,Nguyen,Auckland,NZ,2026-04-08,advanced,2003
+1049,Ngaio,Fraser,Otago,NZ,2026-04-22,intermediate,1962
+1050,Jonah,Qureshi,Auckland,NZ,2026-05-12,advanced,1996
+1051,Mia,Tamihana,Canterbury,NZ,2026-04-19,beginner,1960
+1052,Olivia,Aperahama,Wellington,NZ,2026-04-09,beginner,1987
+1053,Mateo,Rangi,Canterbury,NZ,2026-08-19,intermediate,1961
+1054,Xanthe,Douglas,Waikato,NZ,2026-05-03,intermediate,1996
+1055,Violet,Moana,Canterbury,NZ,2026-07-22,advanced,2003
+1056,Tui,Douglas,Tasman,NZ,2026-04-04,intermediate,1971
+1057,Leilani,Parata,Auckland,NZ,2026-06-25,intermediate,1958
+1058,Kiri,Bennett,Bay of Plenty,NZ,2026-07-19,intermediate,1960
+1059,Isla,Patel,Canterbury,NZ,2026-08-28,intermediate,2001
+1060,Grace,Fraser,Waikato,NZ,2026-04-28,beginner,1998
+1061,Anika,Rangi,Auckland,NZ,2026-06-02,beginner,1976
+1062,Olivia,Hohepa,Waikato,NZ,2026-08-22,intermediate,1995
+1063,Violet,Xu,Wellington,NZ,2026-08-23,beginner,1959
+1064,Mia,Walker,Otago,NZ,2026-07-15,beginner,1959
+1065,Ben,Tamihana,Otago,NZ,2026-08-20,beginner,1982
+1066,Violet,Harris,Wellington,NZ,2026-04-19,intermediate,2005
+1067,Aroha,Singh,New South Wales,AU,2026-06-14,intermediate,1963
+1068,Sofia,OBrien,Southland,NZ,2026-05-28,intermediate,1992
+1069,Oscar,Hohepa,New South Wales,AU,2026-08-20,intermediate,1986
+1070,Nikau,Jones,Wellington,NZ,2026-06-14,intermediate,1990
+1071,Liam,Chen,Auckland,NZ,2026-07-03,advanced,1995
+1072,Wiremu,Harris,New South Wales,AU,2026-08-09,beginner,1990
+1073,Kiri,Brown,Southland,NZ,2026-07-31,beginner,1965
+1074,Kiri,Young,Auckland,NZ,2026-05-17,intermediate,2003
+1075,Oscar,Dalton,Southland,NZ,2026-07-17,advanced,1954
+1076,Kiri,Parata,New South Wales,AU,2026-07-03,advanced,1988
+1077,Nikau,MacDonald,Auckland,NZ,2026-06-09,advanced,1975
+1078,Violet,Parata,Bay of Plenty,NZ,2026-06-22,beginner,1981
+1079,Tane,Zhang,Auckland,NZ,2026-08-20,expert,1995
+1080,Mia,Chen,Canterbury,NZ,2026-08-30,intermediate,1984
+1081,Daniel,Patel,Canterbury,NZ,2026-06-15,beginner,1987
+1082,Jonah,Urquhart,Waikato,NZ,2026-05-24,intermediate,1957
+1083,Nikau,Ihaka,Canterbury,NZ,2026-08-12,expert,1992
+1084,Mia,Reid,Auckland,NZ,2026-06-23,intermediate,1962
+1085,Hemi,Faleolo,Victoria,AU,2026-04-17,beginner,1956
+1086,Emma,Brown,Auckland,NZ,2026-08-08,beginner,1965
+1087,Tane,Edwards,New South Wales,AU,2026-07-21,intermediate,1974
+1088,Anika,Parata,New South Wales,AU,2026-06-12,beginner,1993
+1089,Dev,Xu,Tasman,NZ,2026-07-23,beginner,1980
+1090,Eleni,MacDonald,Canterbury,NZ,2026-05-09,beginner,1979
+1091,Oscar,Kaur,Waikato,NZ,2026-08-06,intermediate,1960
+1092,Piripi,Douglas,Tasman,NZ,2026-06-10,expert,1977
+1093,Nikau,Faleolo,Auckland,NZ,2026-08-13,intermediate,1960
+1094,Aroha,Hohepa,Queensland,AU,2026-08-14,beginner,1989
+1095,Jack,Smith,Otago,NZ,2026-06-14,intermediate,1952
+1096,Finn,Brown,Queensland,AU,2026-06-21,intermediate,2001
+1097,Eleni,Smith,Canterbury,NZ,2026-08-22,intermediate,1978
+1098,Kiri,Anderson,Canterbury,NZ,2026-08-02,beginner,1980
+1099,Eleni,Fraser,Queensland,AU,2026-04-27,beginner,1965
+1100,Nikau,Parata,Bay of Plenty,NZ,2026-08-03,advanced,1952
+1101,Charlotte,Hohepa,New South Wales,AU,2026-07-19,expert,1966
+1102,Mia,Rangi,Auckland,NZ,2026-07-21,beginner,1969
+1103,Quinn,Reid,Auckland,NZ,2026-07-02,beginner,1993
+1104,Liam,Kaur,Canterbury,NZ,2026-08-01,advanced,1987
+1105,Una,Young,Tasman,NZ,2026-07-03,advanced,1992
+1106,Ben,Xu,Otago,NZ,2026-06-24,intermediate,1954
+1107,Nikau,Singh,Tasman,NZ,2026-07-03,advanced,2006
+1108,Piripi,Fraser,Auckland,NZ,2026-08-08,beginner,1965
+1109,Nikau,Xu,Bay of Plenty,NZ,2026-08-06,intermediate,1976
+1110,Xanthe,Parata,Tasman,NZ,2026-06-18,intermediate,1972
+1111,Priya,Young,Canterbury,NZ,2026-06-05,intermediate,1996
+1112,Jonah,Ngata,Otago,NZ,2026-04-08,intermediate,1997
+1113,Violet,Harris,Auckland,NZ,2026-05-05,intermediate,2003
+1114,Hana,Thompson,Wellington,NZ,2026-05-08,intermediate,1995
+1115,Xanthe,Reid,Otago,NZ,2026-04-23,advanced,1989
+1116,Olivia,Reid,Otago,NZ,2026-05-31,beginner,1962
+1117,Leilani,Tamihana,Otago,NZ,2026-08-18,advanced,1964
+1118,Una,Fraser,Canterbury,NZ,2026-08-19,intermediate,1966
+1119,Liam,Anderson,Canterbury,NZ,2026-05-12,beginner,1966
+1120,Rewi,Tamihana,Wellington,NZ,2026-07-21,intermediate,1970
+1121,Liam,Rangi,Auckland,NZ,2026-05-19,beginner,1964
+1122,Ruby,Lee,Canterbury,NZ,2026-08-26,beginner,1995
+1123,Tui,Faleolo,Auckland,NZ,2026-05-12,intermediate,1964
+1124,Finn,Douglas,Victoria,AU,2026-04-22,advanced,1979
+1125,Wiremu,Young,Otago,NZ,2026-05-15,advanced,1986
+1126,Tui,Dalton,Canterbury,NZ,2026-05-09,intermediate,1965
+1127,Tane,Edwards,Bay of Plenty,NZ,2026-04-11,advanced,1958
+1128,Yasmin,Rangi,Waikato,NZ,2026-05-18,intermediate,1969
+1129,Rewi,Anderson,Queensland,AU,2026-05-28,advanced,1980
+1130,Eleni,Walker,Otago,NZ,2026-05-25,intermediate,1966
+1131,Dev,Patel,Wellington,NZ,2026-05-02,beginner,1994
+1132,Tane,Walker,Otago,NZ,2026-08-18,intermediate,1955
+1133,Callum,Vaifale,Auckland,NZ,2026-05-11,intermediate,1998
+1134,Una,Patel,Canterbury,NZ,2026-05-12,advanced,1968
+1135,Mia,Thompson,Wellington,NZ,2026-04-30,intermediate,1977
+1136,Ben,Graham,Canterbury,NZ,2026-04-13,advanced,2003
+1137,Finn,Urquhart,Canterbury,NZ,2026-07-31,intermediate,1983
+1138,Anika,Parata,Auckland,NZ,2026-08-12,intermediate,1997
+1139,Sam,Young,Wellington,NZ,2026-04-16,intermediate,1954
+1140,Jack,Graham,Canterbury,NZ,2026-08-01,intermediate,1978
+1141,Callum,Thompson,Otago,NZ,2026-04-03,intermediate,1999
+1142,Hemi,Lee,Auckland,NZ,2026-08-19,intermediate,1987
+1143,Dev,Moana,Victoria,AU,2026-05-24,intermediate,1969
+1144,Eleni,Xu,Wellington,NZ,2026-07-18,expert,1995
+1145,Leilani,Reid,Victoria,AU,2026-06-03,advanced,1957
+1146,Leilani,Aperahama,Otago,NZ,2026-07-16,beginner,1966
+1147,Olivia,Lee,Wellington,NZ,2026-05-14,intermediate,2002
+1148,Mateo,Graham,Bay of Plenty,NZ,2026-06-05,intermediate,2006
+1149,Xanthe,Kaur,Waikato,NZ,2026-08-03,beginner,1976
+1150,Una,Ihaka,Otago,NZ,2026-07-21,advanced,1959
+1151,Daniel,Douglas,Otago,NZ,2026-07-12,intermediate,2003
+1152,Hana,Xu,Southland,NZ,2026-06-19,expert,1978
+1153,Anika,Jones,Queensland,AU,2026-06-20,intermediate,1985
+1154,Yasmin,Qureshi,Otago,NZ,2026-06-15,intermediate,1957
+1155,Piripi,Ngata,Otago,NZ,2026-07-09,intermediate,1952
+1156,Violet,Tamihana,Waikato,NZ,2026-05-02,intermediate,1964
+1157,Una,Kaur,Victoria,AU,2026-04-28,beginner,1984
+1158,Sofia,Aperahama,Tasman,NZ,2026-05-11,beginner,1966
+1159,Finn,Jones,Auckland,NZ,2026-04-06,intermediate,1964
+1160,Rewi,Douglas,Auckland,NZ,2026-05-03,beginner,1977
+1161,Zoe,Fraser,Queensland,AU,2026-07-20,beginner,1998
+1162,Wiremu,Hohepa,New South Wales,AU,2026-07-20,advanced,1957
+1163,Kiri,Jones,Otago,NZ,2026-04-19,intermediate,1976
+1164,Tane,Zhang,Tasman,NZ,2026-06-03,beginner,2004
+1165,Tui,Xu,Auckland,NZ,2026-05-22,intermediate,1987
+1166,Finn,Aperahama,Auckland,NZ,2026-04-27,advanced,1981
+1167,Charlotte,Edwards,Victoria,AU,2026-06-30,advanced,1993
+1168,Emma,Kumar,Tasman,NZ,2026-07-24,intermediate,1953
+1169,Ruby,Tamihana,Waikato,NZ,2026-05-07,advanced,1985
+1170,Anika,Kumar,Bay of Plenty,NZ,2026-04-12,advanced,2005
+1171,Tane,Smith,Waikato,NZ,2026-05-30,beginner,1966
+1172,Ruby,Moana,Queensland,AU,2026-08-19,beginner,1964
+1173,Una,Jones,Tasman,NZ,2026-07-31,advanced,1998
+1174,Wiremu,Kumar,Tasman,NZ,2026-04-30,beginner,1959
+1175,Violet,Faleolo,Southland,NZ,2026-08-16,beginner,1965
+1176,Isla,Chen,Canterbury,NZ,2026-07-26,expert,1991
+1177,Oscar,Parata,Canterbury,NZ,2026-04-23,intermediate,1983
+1178,Ruby,Smith,Canterbury,NZ,2026-05-26,advanced,1976
+1179,Anika,Edwards,Victoria,AU,2026-08-28,intermediate,1986
+1180,Oscar,Ihaka,Otago,NZ,2026-08-28,expert,1966
+1181,Sam,Dalton,Wellington,NZ,2026-04-23,beginner,2005
+1182,Ngaio,Kumar,Auckland,NZ,2026-05-07,beginner,1966
+1183,Piripi,Moana,Wellington,NZ,2026-06-14,advanced,1961
+1184,Emma,Nguyen,Tasman,NZ,2026-07-26,intermediate,1967
+1185,Piripi,Nguyen,Wellington,NZ,2026-07-20,beginner,1983
+1186,Emma,Faleolo,Auckland,NZ,2026-06-14,intermediate,2005
+1187,Rewi,Graham,Wellington,NZ,2026-07-17,intermediate,1997
+1188,Aroha,Zhang,Auckland,NZ,2026-07-25,intermediate,1974
+1189,Anika,Young,Canterbury,NZ,2026-08-03,advanced,1954
+1190,Hana,Kumar,Wellington,NZ,2026-08-10,advanced,1993
+1191,Daniel,Qureshi,Waikato,NZ,2026-04-13,intermediate,1983
+1192,Mateo,Aperahama,New South Wales,AU,2026-06-18,advanced,1969
+1193,Tane,Harris,Queensland,AU,2026-06-26,beginner,1962
+1194,Hana,Faleolo,Auckland,NZ,2026-07-31,expert,2003
+1195,Callum,Kaur,Waikato,NZ,2026-05-13,advanced,1986
+1196,Mia,Clarke,Canterbury,NZ,2026-07-20,beginner,1988
+1197,Kiri,Singh,Otago,NZ,2026-05-27,expert,1963
+1198,Liam,Chen,Canterbury,NZ,2026-05-31,intermediate,2003
+1199,Sam,Brown,Otago,NZ,2026-06-10,advanced,1990
+1200,Wiremu,Reid,Canterbury,NZ,2026-04-07,expert,1978
+1201,Xanthe,Thompson,Auckland,NZ,2026-07-09,advanced,1958
+1202,Daniel,Clarke,Waikato,NZ,2026-07-28,intermediate,1997
+1203,Hana,Lee,Victoria,AU,2026-07-25,intermediate,1997
+1204,Sofia,Ihaka,Auckland,NZ,2026-05-04,advanced,1999
+1205,Leilani,Douglas,Auckland,NZ,2026-08-17,expert,1953
+1206,Nikau,Kumar,Wellington,NZ,2026-08-10,intermediate,1964
+1207,Zoe,Bennett,Bay of Plenty,NZ,2026-06-23,intermediate,1953
+1208,Piripi,Brown,Tasman,NZ,2026-05-12,intermediate,1978
+1209,Una,Aperahama,Canterbury,NZ,2026-06-07,advanced,1966
+1210,Dev,Kumar,Canterbury,NZ,2026-04-10,beginner,1978
+1211,Finn,Gupta,Canterbury,NZ,2026-06-01,intermediate,1959
+1212,Leilani,Graham,Tasman,NZ,2026-04-05,intermediate,1966
+1213,Yasmin,Xu,Otago,NZ,2026-06-20,intermediate,1997
+1214,Anika,Faleolo,New South Wales,AU,2026-08-09,beginner,1959
+1215,Priya,Young,Victoria,AU,2026-08-31,advanced,1956
+1216,Violet,Reid,Tasman,NZ,2026-08-14,beginner,1966
+1217,Kiri,Urquhart,Otago,NZ,2026-08-01,intermediate,1982
+1218,Callum,Brown,Canterbury,NZ,2026-04-06,beginner,1962
+1219,Nikau,Reid,Auckland,NZ,2026-08-16,intermediate,1964
+1220,Leilani,Thompson,Auckland,NZ,2026-08-28,advanced,1970
+1221,Priya,Faleolo,Otago,NZ,2026-05-15,beginner,2000
+1222,Wiremu,Clarke,Canterbury,NZ,2026-08-18,beginner,2003
+1223,Violet,Singh,Queensland,AU,2026-07-05,beginner,1981
+1224,Violet,Brown,Auckland,NZ,2026-05-02,advanced,1976
+1225,Hana,Tamihana,Otago,NZ,2026-07-04,expert,1952
+1226,Wiremu,Brown,New South Wales,AU,2026-08-17,beginner,1968
+1227,Callum,Douglas,Auckland,NZ,2026-06-03,intermediate,1968
+1228,Dev,OBrien,Bay of Plenty,NZ,2026-05-20,beginner,1960
+1229,Dev,MacDonald,Waikato,NZ,2026-08-13,expert,1973
+1230,Grace,Qureshi,Canterbury,NZ,2026-07-23,intermediate,1980
+1231,Oscar,Aperahama,Canterbury,NZ,2026-06-05,expert,1979
+1232,Rewi,Rangi,Canterbury,NZ,2026-04-02,beginner,1972
+1233,Anika,Smith,Canterbury,NZ,2026-04-13,intermediate,1967
+1234,Liam,Walker,Tasman,NZ,2026-07-28,intermediate,1990
+1235,Yasmin,Young,Canterbury,NZ,2026-06-12,advanced,1995
+1236,Jack,Ngata,Auckland,NZ,2026-04-28,intermediate,1996
+1237,Rewi,Urquhart,Waikato,NZ,2026-05-11,advanced,1967
+1238,Yasmin,Brown,Victoria,AU,2026-08-31,advanced,1990
+1239,Finn,Douglas,Canterbury,NZ,2026-04-17,advanced,1956
+1240,Ruby,Thompson,Waikato,NZ,2026-08-22,intermediate,1963
+1241,Violet,Parata,New South Wales,AU,2026-08-04,advanced,1980
+1242,Sam,Tamihana,Wellington,NZ,2026-06-14,beginner,1991
+1243,Hemi,Aperahama,Tasman,NZ,2026-05-04,beginner,1971
+1244,Anika,Singh,Bay of Plenty,NZ,2026-08-12,beginner,2004
+1245,Sofia,Anderson,Wellington,NZ,2026-06-14,beginner,1976
+1246,Wiremu,Qureshi,Wellington,NZ,2026-04-18,beginner,1965
+1247,Finn,Faleolo,Victoria,AU,2026-07-08,beginner,1987
+1248,Emma,Tamihana,Otago,NZ,2026-04-13,advanced,1976
+1249,Tui,Reid,Tasman,NZ,2026-08-06,intermediate,1953
+1250,Mateo,Moana,Otago,NZ,2026-05-03,intermediate,1963
+1251,Nikau,Harris,Wellington,NZ,2026-08-20,intermediate,1970
+1252,Ruby,OBrien,Wellington,NZ,2026-07-18,intermediate,1963
+1253,Wiremu,Moana,Canterbury,NZ,2026-07-06,beginner,1985
+1254,Quinn,Parata,Waikato,NZ,2026-06-28,advanced,1954
+1255,Anika,Parata,Otago,NZ,2026-05-29,beginner,1964
+1256,Zoe,Xu,Tasman,NZ,2026-06-19,intermediate,1973
+1257,Sofia,Bennett,Waikato,NZ,2026-07-02,beginner,1995
+1258,Wiremu,Nguyen,Bay of Plenty,NZ,2026-04-23,advanced,2003
+1259,Dev,Douglas,Victoria,AU,2026-06-24,beginner,1969
+1260,Dev,Zhang,Auckland,NZ,2026-07-06,expert,2000
+1261,Nikau,Smith,Auckland,NZ,2026-07-23,intermediate,1988
+1262,Grace,Tamihana,Auckland,NZ,2026-05-29,advanced,1959
+1263,Sofia,Tamihana,Queensland,AU,2026-04-15,intermediate,1975
+1264,Sam,Gupta,Otago,NZ,2026-06-11,advanced,1991
+1265,Grace,Reid,Canterbury,NZ,2026-05-12,intermediate,1988
+1266,Quinn,Patel,Southland,NZ,2026-07-16,intermediate,1952
+1267,Callum,Brown,Auckland,NZ,2026-04-08,beginner,2003
+1268,Una,Reid,Victoria,AU,2026-05-26,beginner,1964
+1269,Ruby,Reid,Waikato,NZ,2026-08-29,advanced,2005
+1270,Nikau,Edwards,Wellington,NZ,2026-06-17,beginner,2002
+1271,Ben,Smith,Tasman,NZ,2026-08-09,advanced,1993
+1272,Mia,Douglas,Wellington,NZ,2026-07-17,beginner,1973
+1273,Tui,Brown,Wellington,NZ,2026-04-21,intermediate,1978
+1274,Quinn,Clarke,Auckland,NZ,2026-06-25,beginner,2006
+1275,Tui,Moana,Victoria,AU,2026-07-14,beginner,1961
+1276,Rewi,Lee,Otago,NZ,2026-05-06,beginner,1956
+1277,Jack,Young,New South Wales,AU,2026-07-25,expert,1964
+1278,Nikau,Zhang,New South Wales,AU,2026-08-22,advanced,1976
+1279,Emma,Aperahama,Canterbury,NZ,2026-08-15,intermediate,1969
+1280,Jonah,Patel,Bay of Plenty,NZ,2026-05-07,beginner,1958
+1281,Una,Smith,Victoria,AU,2026-08-17,beginner,1989
+1282,Aroha,Patel,Victoria,AU,2026-07-25,expert,1981
+1283,Violet,Chen,Waikato,NZ,2026-08-20,advanced,1955
+1284,Liam,Aperahama,Tasman,NZ,2026-08-07,intermediate,1969
+1285,Leilani,Young,Wellington,NZ,2026-04-13,beginner,1952
+1286,Yasmin,Anderson,Wellington,NZ,2026-08-12,intermediate,1998
+1287,Ben,Ngata,Bay of Plenty,NZ,2026-06-05,beginner,1982
+1288,Dev,Brown,Victoria,AU,2026-06-20,intermediate,1956
+1289,Grace,Jones,Canterbury,NZ,2026-07-30,intermediate,1996
+1290,Finn,Reid,Canterbury,NZ,2026-07-21,expert,1975
+1291,Hana,Patel,Canterbury,NZ,2026-08-16,intermediate,1955
+1292,Emma,Brown,Wellington,NZ,2026-06-16,beginner,1967
+1293,Isla,Urquhart,Victoria,AU,2026-05-18,beginner,1981
+1294,Xanthe,Rangi,Canterbury,NZ,2026-08-24,beginner,1997
+1295,Grace,MacDonald,Southland,NZ,2026-06-28,intermediate,2003
+1296,Zoe,MacDonald,Wellington,NZ,2026-06-18,beginner,1957
+1297,Sam,Smith,Otago,NZ,2026-07-08,beginner,1966
+1298,Grace,Rangi,Auckland,NZ,2026-04-14,intermediate,1973
+1299,Priya,Reid,Otago,NZ,2026-08-07,advanced,1959
+1300,Daniel,Ihaka,Tasman,NZ,2026-04-19,intermediate,1985
+1301,Oscar,Ngata,Auckland,NZ,2026-08-11,beginner,2001
+1302,Priya,Zhang,Canterbury,NZ,2026-07-12,intermediate,1992
+1303,Violet,Hohepa,Auckland,NZ,2026-08-02,intermediate,1953
+1304,Jack,Jones,Auckland,NZ,2026-04-18,advanced,2003
+1305,Yasmin,Young,Canterbury,NZ,2026-07-04,advanced,1987
+1306,Quinn,Graham,Otago,NZ,2026-04-04,advanced,2001
+1307,Violet,OBrien,Otago,NZ,2026-07-31,intermediate,1971
+1308,Grace,Hohepa,Tasman,NZ,2026-04-08,advanced,1993
+1309,Sofia,Hohepa,Otago,NZ,2026-05-25,intermediate,1966
+1310,Olivia,Ihaka,Wellington,NZ,2026-06-28,intermediate,1972
+1311,Grace,Fraser,Queensland,AU,2026-05-30,intermediate,1987
+1312,Oscar,Ihaka,Waikato,NZ,2026-06-21,advanced,1981
+1313,Grace,Xu,Canterbury,NZ,2026-08-02,expert,1984
+1314,Wiremu,OBrien,Otago,NZ,2026-08-31,beginner,1969
+1315,Dev,Clarke,Auckland,NZ,2026-08-09,intermediate,1989
+1316,Hemi,Qureshi,Victoria,AU,2026-04-19,intermediate,1997
+1317,Xanthe,Moana,Canterbury,NZ,2026-08-05,intermediate,1987
+1318,Quinn,Reid,Auckland,NZ,2026-08-31,intermediate,2006
+1319,Tane,Rangi,Otago,NZ,2026-07-25,beginner,1983
+1320,Nikau,Tamihana,Auckland,NZ,2026-07-04,intermediate,1956
+1321,Ngaio,Ngata,Southland,NZ,2026-05-28,beginner,1998
+1322,Wiremu,MacDonald,New South Wales,AU,2026-07-01,expert,1953
+1323,Finn,Qureshi,Auckland,NZ,2026-05-06,beginner,1990
+1324,Kiri,Smith,Otago,NZ,2026-06-09,beginner,1994
+1325,Tui,OBrien,Canterbury,NZ,2026-04-07,beginner,1960
+1326,Dev,Douglas,Victoria,AU,2026-08-31,beginner,1952
+1327,Xanthe,Dalton,Victoria,AU,2026-07-02,intermediate,1979
+1328,Quinn,Parata,Otago,NZ,2026-05-20,intermediate,1960
+1329,Anika,Brown,Auckland,NZ,2026-07-11,advanced,1977
+1330,Charlotte,Hohepa,Otago,NZ,2026-08-21,beginner,1977
+1331,Priya,Zhang,Auckland,NZ,2026-04-25,beginner,2004
+1332,Una,Aperahama,Otago,NZ,2026-08-05,intermediate,1998
+1333,Piripi,Patel,Wellington,NZ,2026-07-10,intermediate,1970
+1334,Hana,Urquhart,Southland,NZ,2026-08-09,advanced,1959
+1335,Hana,Ihaka,Auckland,NZ,2026-04-20,intermediate,1996
+1336,Violet,Bennett,Auckland,NZ,2026-08-23,advanced,1962
+1337,Rewi,Dalton,Wellington,NZ,2026-08-28,advanced,1969
+1338,Emma,Parata,Canterbury,NZ,2026-05-17,beginner,2002
+1339,Piripi,Douglas,Auckland,NZ,2026-06-04,beginner,1986
+1340,Violet,Graham,Wellington,NZ,2026-08-28,intermediate,1974
+1341,Xanthe,Nguyen,Otago,NZ,2026-06-19,intermediate,1995
+1342,Mateo,Gupta,Canterbury,NZ,2026-07-26,beginner,1997
+1343,Olivia,Clarke,Queensland,AU,2026-07-26,beginner,2002
+1344,Ben,Kaur,Otago,NZ,2026-04-28,beginner,1987
+1345,Ngaio,Smith,Wellington,NZ,2026-05-11,intermediate,1976
+1346,Yasmin,Dalton,Queensland,AU,2026-07-09,beginner,1988
+1347,Ngaio,Zhang,New South Wales,AU,2026-04-25,intermediate,1969
+1348,Quinn,Gupta,Southland,NZ,2026-04-12,beginner,1982
+1349,Charlotte,Nguyen,Auckland,NZ,2026-05-16,intermediate,1963
+1350,Sam,Ihaka,New South Wales,AU,2026-07-25,beginner,1993
+1351,Emma,Smith,Waikato,NZ,2026-05-14,intermediate,2002
+1352,Liam,Parata,Canterbury,NZ,2026-04-05,advanced,1990
+1353,Piripi,Bennett,Auckland,NZ,2026-07-24,intermediate,1970
+1354,Rewi,Young,Wellington,NZ,2026-08-26,beginner,1985
+1355,Zoe,Patel,Auckland,NZ,2026-05-07,beginner,1998
+1356,Jack,Tamihana,Auckland,NZ,2026-08-18,intermediate,1984
+1357,Emma,Harris,Wellington,NZ,2026-04-15,beginner,1959
+1358,Kiri,Tamihana,Southland,NZ,2026-05-01,advanced,2002
+1359,Una,Brown,Wellington,NZ,2026-05-18,beginner,1968
+1360,Grace,Chen,Auckland,NZ,2026-07-28,beginner,2001
+1361,Olivia,Singh,Auckland,NZ,2026-07-19,beginner,1975
+1362,Ruby,Nguyen,Auckland,NZ,2026-06-19,intermediate,1992
+1363,Ngaio,Moana,Auckland,NZ,2026-05-31,intermediate,1960
+1364,Rewi,Thompson,Bay of Plenty,NZ,2026-07-31,intermediate,1972
+1365,Liam,Parata,Wellington,NZ,2026-08-13,advanced,1981
+1366,Finn,Nguyen,Queensland,AU,2026-08-03,beginner,1999
+1367,Tane,OBrien,Bay of Plenty,NZ,2026-05-14,advanced,1960
+1368,Jonah,Bennett,Auckland,NZ,2026-08-06,beginner,1972
+1369,Eleni,Moana,Waikato,NZ,2026-05-17,intermediate,2003
+1370,Rewi,Qureshi,Canterbury,NZ,2026-05-21,beginner,1980
+1371,Oscar,Douglas,Wellington,NZ,2026-07-31,advanced,1997
+1372,Rewi,Tamihana,New South Wales,AU,2026-05-05,expert,1974
+1373,Dev,Walker,Wellington,NZ,2026-08-19,intermediate,1958
+1374,Oscar,Chen,Waikato,NZ,2026-05-20,advanced,1969
+1375,Sam,Ngata,Auckland,NZ,2026-07-25,intermediate,1987
+1376,Violet,Tamihana,Otago,NZ,2026-05-11,intermediate,2005
+1377,Sofia,Harris,Auckland,NZ,2026-06-01,intermediate,1977
+1378,Jack,OBrien,Wellington,NZ,2026-05-03,advanced,1986
+1379,Quinn,Urquhart,Canterbury,NZ,2026-06-22,advanced,2000
+1380,Isla,Brown,Victoria,AU,2026-05-13,intermediate,1995
+1381,Quinn,Hohepa,Otago,NZ,2026-07-16,beginner,1992
+1382,Priya,Chen,Tasman,NZ,2026-05-18,intermediate,1971
+1383,Wiremu,Walker,Bay of Plenty,NZ,2026-07-15,intermediate,1952
+1384,Eleni,Walker,Otago,NZ,2026-04-03,advanced,1999
+1385,Priya,Fraser,New South Wales,AU,2026-04-15,beginner,1953
+1386,Charlotte,Faleolo,Auckland,NZ,2026-06-17,intermediate,1969
+1387,Aroha,Qureshi,Southland,NZ,2026-06-13,beginner,1962
+1388,Anika,Young,Otago,NZ,2026-06-01,expert,1981
+1389,Piripi,Rangi,Auckland,NZ,2026-08-09,advanced,1973
+1390,Priya,Rangi,Bay of Plenty,NZ,2026-04-07,intermediate,1967
+1391,Ben,Chen,Canterbury,NZ,2026-07-31,beginner,1982
+1392,Rewi,Vaifale,Canterbury,NZ,2026-07-08,intermediate,1974
+1393,Oscar,Walker,Wellington,NZ,2026-08-30,intermediate,1962
+1394,Ben,Rangi,Otago,NZ,2026-06-17,beginner,1982
+1395,Finn,Douglas,Otago,NZ,2026-06-18,intermediate,2001
+1396,Aroha,Singh,Wellington,NZ,2026-08-26,intermediate,2005
+1397,Violet,Douglas,Waikato,NZ,2026-07-29,expert,1959
+1398,Anika,Chen,Auckland,NZ,2026-08-06,advanced,1992
+1399,Callum,Moana,Queensland,AU,2026-06-20,advanced,2005
+1400,Callum,Tamihana,Otago,NZ,2026-05-21,beginner,2006
+1401,Jack,Kumar,Waikato,NZ,2026-08-14,advanced,1986
+1402,Rewi,Singh,Auckland,NZ,2026-05-18,intermediate,2001
+1403,Callum,Faleolo,Auckland,NZ,2026-05-18,intermediate,1966
+1404,Jack,Douglas,Canterbury,NZ,2026-08-25,beginner,1952
+1405,Wiremu,Reid,Bay of Plenty,NZ,2026-07-04,beginner,1955
+1406,Dev,Tamihana,Canterbury,NZ,2026-05-17,beginner,1970
+1407,Sam,Anderson,New South Wales,AU,2026-06-26,beginner,1980
+1408,Ruby,OBrien,Victoria,AU,2026-05-12,beginner,1983
+1409,Jonah,Chen,Canterbury,NZ,2026-07-02,intermediate,1989
+1410,Grace,Dalton,Tasman,NZ,2026-08-26,advanced,1966
+1411,Jack,Moana,Waikato,NZ,2026-04-11,beginner,2001
+1412,Ben,Walker,Tasman,NZ,2026-05-15,intermediate,1983
+1413,Nikau,Qureshi,Canterbury,NZ,2026-05-22,advanced,1958
+1414,Kiri,Moana,Otago,NZ,2026-05-05,beginner,1979
+1415,Sofia,Thompson,Victoria,AU,2026-04-05,beginner,1991
+1416,Mia,Gupta,Canterbury,NZ,2026-05-17,intermediate,1992
+1417,Ben,Tamihana,Waikato,NZ,2026-07-19,advanced,2002
+1418,Wiremu,Nguyen,Otago,NZ,2026-06-19,intermediate,2004
+1419,Emma,Moana,Canterbury,NZ,2026-06-27,intermediate,1988
+1420,Ngaio,Dalton,Canterbury,NZ,2026-07-04,intermediate,1977
+1421,Nikau,Gupta,Wellington,NZ,2026-07-04,advanced,1986
+1422,Grace,Kaur,Bay of Plenty,NZ,2026-05-03,advanced,1976
+1423,Yasmin,Kumar,Otago,NZ,2026-05-17,advanced,1973
+1424,Yasmin,MacDonald,Canterbury,NZ,2026-06-16,intermediate,1967
+1425,Isla,Brown,Auckland,NZ,2026-04-12,advanced,1989
+1426,Olivia,Smith,Wellington,NZ,2026-07-11,intermediate,1974
+1427,Hana,Kaur,Tasman,NZ,2026-07-17,advanced,1967
+1428,Wiremu,Edwards,Wellington,NZ,2026-04-12,advanced,1995
+1429,Zoe,Hohepa,New South Wales,AU,2026-07-05,advanced,2004
+1430,Hemi,Ihaka,Wellington,NZ,2026-06-15,beginner,1956
+1431,Eleni,Qureshi,Wellington,NZ,2026-07-25,intermediate,1964
+1432,Piripi,Aperahama,Southland,NZ,2026-04-13,advanced,1952
+1433,Emma,Anderson,Southland,NZ,2026-07-27,advanced,1978
+1434,Charlotte,Chen,Victoria,AU,2026-06-23,intermediate,1994
+1435,Isla,Bennett,Auckland,NZ,2026-08-06,intermediate,1993
+1436,Zoe,Jones,New South Wales,AU,2026-06-06,beginner,1976
+1437,Olivia,Young,Waikato,NZ,2026-07-20,beginner,2002
+1438,Eleni,Parata,Otago,NZ,2026-04-30,advanced,1996
+1439,Quinn,Anderson,Auckland,NZ,2026-05-09,beginner,1965
+1440,Callum,Vaifale,Otago,NZ,2026-05-07,intermediate,1969
+1441,Jonah,Kumar,New South Wales,AU,2026-08-29,intermediate,2005
+1442,Xanthe,Young,Auckland,NZ,2026-07-25,advanced,1959
+1443,Sofia,Walker,Bay of Plenty,NZ,2026-08-27,beginner,1976
+1444,Priya,MacDonald,Wellington,NZ,2026-05-15,intermediate,1959
+1445,Quinn,Fraser,Wellington,NZ,2026-07-17,advanced,1998
+1446,Dev,Bennett,Otago,NZ,2026-04-20,intermediate,1969
+1447,Sam,Lee,Auckland,NZ,2026-08-21,beginner,1992
+1448,Ngaio,Zhang,Auckland,NZ,2026-05-28,expert,1974
+1449,Grace,Vaifale,Tasman,NZ,2026-08-16,intermediate,1959
+1450,Finn,Smith,Otago,NZ,2026-07-19,intermediate,1973
+1451,Yasmin,Anderson,Auckland,NZ,2026-06-16,expert,1992
+1452,Oscar,Thompson,Waikato,NZ,2026-05-05,intermediate,1974
+1453,Ben,Singh,Wellington,NZ,2026-05-27,expert,2004
+1454,Priya,Graham,Queensland,AU,2026-08-19,intermediate,2005
+1455,Kiri,Chen,Canterbury,NZ,2026-05-29,advanced,1964
+1456,Ruby,Douglas,Otago,NZ,2026-08-05,advanced,1953
+1457,Wiremu,Zhang,Bay of Plenty,NZ,2026-07-13,intermediate,1988
+1458,Ngaio,Nguyen,Tasman,NZ,2026-06-12,beginner,2003
+1459,Finn,Edwards,Otago,NZ,2026-04-25,advanced,1957
+1460,Nikau,Gupta,Otago,NZ,2026-06-30,beginner,1979
+1461,Mateo,Clarke,Canterbury,NZ,2026-05-08,advanced,1987
+1462,Aroha,Qureshi,Southland,NZ,2026-05-19,intermediate,1952
+1463,Quinn,Jones,Auckland,NZ,2026-07-01,beginner,1957
+1464,Oscar,Clarke,Auckland,NZ,2026-06-11,intermediate,1961
+1465,Isla,Fraser,Auckland,NZ,2026-07-25,beginner,1963
+1466,Anika,Hohepa,Bay of Plenty,NZ,2026-05-26,intermediate,1955
+1467,Leilani,Rangi,Otago,NZ,2026-05-09,advanced,1956
+1468,Violet,Douglas,Otago,NZ,2026-08-12,beginner,1979
+1469,Dev,Kumar,New South Wales,AU,2026-05-29,intermediate,1962
+1470,Oscar,Parata,Otago,NZ,2026-06-24,advanced,1990
+1471,Liam,Zhang,Auckland,NZ,2026-08-08,advanced,1980
+1472,Isla,Ihaka,Bay of Plenty,NZ,2026-04-04,intermediate,1991
+1473,Isla,Zhang,Queensland,AU,2026-05-18,intermediate,1960
+1474,Liam,Urquhart,Wellington,NZ,2026-05-06,beginner,1956
+1475,Dev,Zhang,Auckland,NZ,2026-05-07,expert,1978
+1476,Zoe,Rangi,Wellington,NZ,2026-08-15,beginner,1996
+1477,Quinn,Zhang,Tasman,NZ,2026-06-07,beginner,1986
+1478,Oscar,Thompson,Southland,NZ,2026-04-21,beginner,1954
+1479,Zoe,Chen,Wellington,NZ,2026-07-07,beginner,1959
+1480,Zoe,Bennett,Auckland,NZ,2026-07-26,beginner,1967
+1481,Daniel,Thompson,Waikato,NZ,2026-05-11,intermediate,1980
+1482,Charlotte,Anderson,Otago,NZ,2026-08-19,advanced,1973
+1483,Oscar,Aperahama,Auckland,NZ,2026-08-19,beginner,1994
+1484,Isla,Thompson,Canterbury,NZ,2026-06-27,beginner,1976
+1485,Piripi,Walker,Otago,NZ,2026-07-16,intermediate,2002
+1486,Kiri,Singh,Canterbury,NZ,2026-06-06,advanced,1958
+1487,Daniel,Brown,Tasman,NZ,2026-06-24,intermediate,1991
+1488,Dev,Rangi,Canterbury,NZ,2026-08-13,beginner,1997
+1489,Jack,Young,New South Wales,AU,2026-06-15,advanced,1958
+1490,Leilani,Edwards,Canterbury,NZ,2026-08-19,advanced,1974
+1491,Priya,Clarke,Southland,NZ,2026-08-08,intermediate,1965
+1492,Piripi,Bennett,Canterbury,NZ,2026-07-02,intermediate,1960
+1493,Sofia,Chen,Auckland,NZ,2026-08-03,beginner,1956
+1494,Ngaio,Patel,Auckland,NZ,2026-08-09,intermediate,1964
+1495,Daniel,Patel,Canterbury,NZ,2026-07-09,intermediate,1976
+1496,Daniel,Vaifale,Victoria,AU,2026-05-29,beginner,1959
+1497,Liam,Tamihana,Canterbury,NZ,2026-07-02,expert,1974
+1498,Xanthe,Lee,Bay of Plenty,NZ,2026-08-27,beginner,1977
+1499,Zoe,Qureshi,Canterbury,NZ,2026-05-13,beginner,1956
+1500,Piripi,Young,Otago,NZ,2026-08-28,beginner,1963
+1501,Mia,Faleolo,Bay of Plenty,NZ,2026-07-12,beginner,1962
+1502,Oscar,Douglas,Auckland,NZ,2026-07-12,intermediate,1995
+1503,Tane,Dalton,Victoria,AU,2026-05-06,beginner,1975
+1504,Nikau,Douglas,Southland,NZ,2026-04-30,beginner,1961
+1505,Xanthe,Vaifale,Auckland,NZ,2026-05-04,beginner,1976
+1506,Piripi,Rangi,Canterbury,NZ,2026-07-09,advanced,1974
+1507,Finn,Nguyen,Wellington,NZ,2026-06-05,intermediate,1956
+1508,Jack,Ngata,New South Wales,AU,2026-08-25,advanced,2005
+1509,Ngaio,Ihaka,Southland,NZ,2026-07-27,intermediate,1977
+1510,Quinn,MacDonald,Wellington,NZ,2026-05-12,intermediate,1958
+1511,Quinn,Chen,Waikato,NZ,2026-06-07,intermediate,1999
+1512,Olivia,Anderson,Auckland,NZ,2026-07-05,intermediate,1991
+1513,Zoe,OBrien,Otago,NZ,2026-06-22,advanced,1996
+1514,Callum,Jones,New South Wales,AU,2026-08-29,intermediate,1990
+1515,Isla,Urquhart,Auckland,NZ,2026-04-30,advanced,2005
+1516,Charlotte,Hohepa,Victoria,AU,2026-06-02,expert,1982
+1517,Daniel,Tamihana,Otago,NZ,2026-07-05,intermediate,1999
+1518,Una,OBrien,Tasman,NZ,2026-04-26,beginner,1963
+1519,Piripi,Dalton,Queensland,AU,2026-08-01,beginner,1952
+1520,Kiri,Aperahama,Southland,NZ,2026-06-27,intermediate,1993
+1521,Sam,Edwards,Victoria,AU,2026-04-30,advanced,1993
+1522,Mia,Tamihana,Auckland,NZ,2026-05-02,expert,1958
+1523,Anika,Aperahama,Bay of Plenty,NZ,2026-07-19,intermediate,1992
+1524,Kiri,Young,New South Wales,AU,2026-05-21,intermediate,1952
+1525,Sam,Rangi,Victoria,AU,2026-05-24,beginner,1964
+1526,Wiremu,Walker,Victoria,AU,2026-08-18,beginner,1973
+1527,Anika,Parata,Otago,NZ,2026-05-14,intermediate,1952
+1528,Dev,Faleolo,Southland,NZ,2026-07-05,intermediate,1954
+1529,Priya,Parata,Waikato,NZ,2026-08-02,advanced,2006
+1530,Isla,Harris,Queensland,AU,2026-05-06,intermediate,2006
+1531,Daniel,Young,Otago,NZ,2026-08-15,beginner,2002
+1532,Tui,Singh,Auckland,NZ,2026-06-22,advanced,1952
+1533,Leilani,Harris,Queensland,AU,2026-05-16,advanced,1992
+1534,Quinn,Ngata,Canterbury,NZ,2026-07-08,advanced,1957
+1535,Finn,Urquhart,Victoria,AU,2026-06-17,advanced,1984
+1536,Sam,Brown,Southland,NZ,2026-07-20,beginner,1955
+1537,Wiremu,Smith,Canterbury,NZ,2026-04-13,intermediate,1967
+1538,Violet,Reid,Canterbury,NZ,2026-05-12,advanced,1998
+1539,Eleni,Xu,Wellington,NZ,2026-04-21,expert,1984
+1540,Jonah,Kaur,Canterbury,NZ,2026-06-28,intermediate,1995
+1541,Ben,Anderson,Tasman,NZ,2026-05-05,expert,1960
+1542,Nikau,Zhang,Tasman,NZ,2026-06-08,advanced,1984
+1543,Xanthe,Fraser,Bay of Plenty,NZ,2026-05-12,advanced,1986
+1544,Eleni,Reid,Wellington,NZ,2026-04-24,expert,1986
+1545,Mateo,Kumar,Southland,NZ,2026-07-04,beginner,1962
+1546,Emma,Walker,Canterbury,NZ,2026-08-03,beginner,1994
+1547,Nikau,Harris,Wellington,NZ,2026-07-25,intermediate,1965
+1548,Zoe,Vaifale,Waikato,NZ,2026-07-12,beginner,1955
+1549,Ben,Faleolo,Auckland,NZ,2026-08-31,intermediate,2001
+1550,Priya,Rangi,Canterbury,NZ,2026-04-12,advanced,1987
+1551,Isla,Patel,Auckland,NZ,2026-06-19,beginner,1983
+1552,Rewi,Edwards,Southland,NZ,2026-08-28,advanced,1983
+1553,Liam,Brown,Wellington,NZ,2026-05-18,advanced,1985
+1554,Grace,Hohepa,Southland,NZ,2026-05-23,advanced,1952
+1555,Priya,Ihaka,Canterbury,NZ,2026-04-01,advanced,1953
+1556,Xanthe,Fraser,Auckland,NZ,2026-04-11,intermediate,1973
+1557,Grace,Kaur,Southland,NZ,2026-05-30,beginner,1958
+1558,Eleni,Walker,Waikato,NZ,2026-06-15,intermediate,1993
+1559,Zoe,Kumar,Southland,NZ,2026-08-05,expert,1959
+1560,Mia,Kumar,Tasman,NZ,2026-05-09,intermediate,2001
+1561,Wiremu,Hohepa,Southland,NZ,2026-07-02,advanced,1975
+1562,Anika,Dalton,Waikato,NZ,2026-07-09,beginner,1967
+1563,Rewi,Xu,Waikato,NZ,2026-08-13,intermediate,1973
+1564,Xanthe,Thompson,Otago,NZ,2026-06-20,beginner,1954
+1565,Charlotte,Kumar,Bay of Plenty,NZ,2026-05-31,intermediate,1967
+1566,Violet,Kumar,Waikato,NZ,2026-08-03,intermediate,1953
+1567,Leilani,Kumar,Waikato,NZ,2026-06-10,beginner,1983
+1568,Priya,Ihaka,Canterbury,NZ,2026-07-01,intermediate,2005
+1569,Hana,Walker,Queensland,AU,2026-06-30,beginner,1953
+1570,Hemi,Edwards,Wellington,NZ,2026-08-12,advanced,1971
+1571,Finn,Lee,Southland,NZ,2026-07-25,advanced,1958
+1572,Wiremu,OBrien,Auckland,NZ,2026-06-07,beginner,1968
+1573,Hemi,Qureshi,Auckland,NZ,2026-08-14,intermediate,1970
+1574,Nikau,Kumar,Wellington,NZ,2026-08-31,advanced,1964
+1575,Callum,Singh,Otago,NZ,2026-04-07,beginner,2002
+1576,Ben,Aperahama,Tasman,NZ,2026-04-02,advanced,1992
+1577,Olivia,Douglas,Waikato,NZ,2026-04-09,beginner,1966
+1578,Ruby,Dalton,Auckland,NZ,2026-04-30,intermediate,2002
+1579,Eleni,Singh,Auckland,NZ,2026-04-02,beginner,2000
+1580,Sam,Smith,Southland,NZ,2026-06-15,advanced,1998
+1581,Violet,Bennett,Bay of Plenty,NZ,2026-06-09,intermediate,1972
+1582,Mia,Smith,Tasman,NZ,2026-04-20,beginner,1966
+1583,Grace,Aperahama,Canterbury,NZ,2026-05-25,advanced,1966
+1584,Dev,Ihaka,Canterbury,NZ,2026-04-28,intermediate,1995
+1585,Finn,OBrien,Otago,NZ,2026-08-30,advanced,1969
+1586,Violet,Nguyen,Canterbury,NZ,2026-04-05,intermediate,1980
+1587,Kiri,Brown,Canterbury,NZ,2026-06-14,advanced,1977
+1588,Anika,Parata,Canterbury,NZ,2026-08-03,intermediate,2003
+1589,Zoe,Jones,Auckland,NZ,2026-04-06,intermediate,1991
+1590,Charlotte,Patel,Waikato,NZ,2026-04-27,beginner,1962
+1591,Quinn,Rangi,Wellington,NZ,2026-07-17,advanced,1957
+1592,Quinn,Smith,Bay of Plenty,NZ,2026-08-01,beginner,1985
+1593,Tui,Lee,Wellington,NZ,2026-07-24,intermediate,1984
+1594,Daniel,Douglas,Auckland,NZ,2026-04-29,advanced,1964
+1595,Oscar,Young,Canterbury,NZ,2026-08-06,intermediate,1995
+1596,Charlotte,Hohepa,Queensland,AU,2026-04-06,intermediate,1993
+1597,Jonah,Moana,Otago,NZ,2026-07-07,expert,1975
+1598,Tui,Dalton,Auckland,NZ,2026-08-24,expert,1984
+1599,Anika,Brown,Otago,NZ,2026-06-06,beginner,1970
+1600,Olivia,Graham,Tasman,NZ,2026-06-13,beginner,2000
